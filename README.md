@@ -1,6 +1,11 @@
 # 📚 Study Tracker API
+
 A Laravel REST API application for managing study records with full CRUD operations. Built using Laravel MVC architecture and tested using Postman.
+
+---
+
 ## 🚀 Features
+
 - Create study records
 - View all records
 - View single record
@@ -9,11 +14,18 @@ A Laravel REST API application for managing study records with full CRUD operati
 - REST API structure
 - Tested using Postman
 - Laravel MVC architecture
+
+---
+
 ## 🛠️ Tech Stack
+
 - Laravel
 - PHP
 - MySQL
 - Postman
+
+---
+
 ## 📌 API Endpoints
 
 | Method | Endpoint |
@@ -24,7 +36,10 @@ A Laravel REST API application for managing study records with full CRUD operati
 | PUT | /api/study-tracker/{id} |
 | DELETE | /api/study-tracker/{id} |
 
+---
+
 ## ⚙️ Installation
+
 ```bash
 git clone https://github.com/your-username/study-tracker-api.git
 
@@ -40,6 +55,9 @@ php artisan migrate
 
 php artisan serve
 ```
+
+---
+
 ## 🔥 Run Project
 
 After starting the server:
@@ -47,6 +65,8 @@ After starting the server:
 ```
 http://127.0.0.1:8000/api/study-tracker
 ```
+
+---
 
 ## 🧪 Example POST Request
 
@@ -87,4 +107,4 @@ database/
 
 ## 👨‍💻 Author
 
-Your Name
+Sherin Pushpa P
